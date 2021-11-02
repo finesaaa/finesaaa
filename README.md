@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Fiqey's Github Stats](https://github-readme-stats.vercel.app/api?username=finesaaa&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finesaaa&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finesaaa&theme=tokyonight&show_icons=true&layout=compact)
