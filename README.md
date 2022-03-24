@@ -1,5 +1,8 @@
 ### Hi there. I'm Fiqey 👋
 
+
+![Applications for Kidney Failure Patients Detection use Deep Learning](https://www.its.ac.id/news/en/2022/02/04/its-students-create-applications-for-kidney-failure-patients/)
+
 <!--
 **finesaaa/finesaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
