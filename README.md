@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 ![Fiqey's Github Stats](https://github-readme-stats.vercel.app/api?username=finesaaa&theme=tokyonight&show_icons=true)
 
-### 🤝🏻 Connect with Me
-
-<p align="center">
+### Connect with Me~
 <a href="https://www.linkedin.com/in/fiqey-indriati/"><img src="https://img.shields.io/badge/-Fiqey%20Indriati%20Eka%20Sari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:indriatifiqey16@gmail.com"><img src="https://img.shields.io/badge/-indriatifiqey16.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
