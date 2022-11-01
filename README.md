@@ -1,8 +1,5 @@
 ### Hi there. I'm Fiqey 👋
 
-
-[Applications for Kidney Failure Patients Detection use Deep Learning](https://www.its.ac.id/news/en/2022/02/04/its-students-create-applications-for-kidney-failure-patients/)
-
 <!--
 **finesaaa/finesaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +18,11 @@ Here are some ideas to get you started:
 -->
 
 ![Fiqey's Github Stats](https://github-readme-stats.vercel.app/api?username=finesaaa&theme=tokyonight&show_icons=true)
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/fiqey-indriati/"></a>
+<a href="mailto:indriatifiqey16@gmail.com"><img src="https://img.shields.io/badge/-dwiknrd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
