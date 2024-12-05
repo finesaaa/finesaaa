@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ![Fiqey's Github Stats](https://github-readme-stats.vercel.app/api?username=finesaaa&theme=tokyonight&show_icons=true)
 
 ### 🌐 **Connect with Me**  
-<a href="https://www.linkedin.com/in/fiqey-indriati/"><img src="https://img.shields.io/badge/-Fiqey%20Indriati%20Eka%20Sari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/fiqey-indriati/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  
 <a href="https://www.instagram.com/fiqey08/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
+<a href="https://fiqey.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white"/></a>
 
 Reminiscing its vibrant days 🤖
 ![image](https://github.com/finesaaa/finesaaa/assets/57583780/dfb60d13-ae9a-4f44-9ed4-67a91316ca62)
