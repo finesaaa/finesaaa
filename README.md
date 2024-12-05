@@ -1,5 +1,10 @@
 ### Hi, I'm Fiqey 👋
 
+- 🔭 Informatics graduate with a strong foundation in computer science and a passion for innovation.
+- 🌱 Currently diving deep into **AI for Healthcare and Biomedicine**, exploring cutting-edge solutions for real-world challenges.
+- ⚡ Programming Languages: Python, R, C++, Java.
+- 📫 Feel free to reach out: indriatifiqey16@gmail.com.
+
 <!--
 **finesaaa/finesaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +24,9 @@ Here are some ideas to get you started:
 
 ![Fiqey's Github Stats](https://github-readme-stats.vercel.app/api?username=finesaaa&theme=tokyonight&show_icons=true)
 
-### Connect with Me
-<a href="https://www.linkedin.com/in/fiqey-indriati/"><img src="https://img.shields.io/badge/-Fiqey%20Indriati%20Eka%20Sari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:indriatifiqey16@gmail.com"><img src="https://img.shields.io/badge/-indriatifiqey16.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+### 🌐 **Connect with Me**  
+<a href="https://www.linkedin.com/in/fiqey-indriati/"><img src="https://img.shields.io/badge/-Fiqey%20Indriati%20Eka%20Sari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  
+<a href="https://www.instagram.com/fiqey08/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
 
-Had its green days 🥲
+Reminiscing its vibrant days 🤖
 ![image](https://github.com/finesaaa/finesaaa/assets/57583780/dfb60d13-ae9a-4f44-9ed4-67a91316ca62)
