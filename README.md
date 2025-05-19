@@ -1,8 +1,7 @@
 ### Hi, I'm Fiqey 👋
 
-- 🔭 Informatics graduate with a strong foundation in computer science and a passion for innovation.
-- 🌱 Currently diving deep into **AI for Healthcare and Biomedicine**, exploring cutting-edge solutions for real-world challenges.
-- ⚡ Programming Languages: Python, R, C++, Java.
+- 🔭 Informatics graduate,currently diving deep into **AI for Healthcare and Biomedicine**, exploring cutting-edge solutions for real-world challenges.
+- ⚡ Programming Languages: Python, R, C++, C.
 - 📫 Feel free to reach out: indriatifiqey16@gmail.com.
 
 <!--
